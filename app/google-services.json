@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "464405524299",
+    "project_id": "progettomobilegaiapojaghi",
+    "storage_bucket": "progettomobilegaiapojaghi.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:464405524299:android:42997de6bb2bae6dcd82ce",
+        "android_client_info": {
+          "package_name": "com.example.fitjourney"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "464405524299-qc3o4ljig65ohq3e8n6hu2j1j5m6ko2d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fitjourney",
+            "certificate_hash": "58775579f19e69572a213ca2071881d690632d38"
+          }
+        },
+        {
+          "client_id": "464405524299-pp27m440jfb47n1g0toni9900s5v12s6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFFXWOXJdPjKneNyaT0ffuWG7o6d1J5rc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "464405524299-pp27m440jfb47n1g0toni9900s5v12s6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
