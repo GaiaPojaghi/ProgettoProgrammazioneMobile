@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.FitJourney" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">#000FFF</item>
+        <item name="android:colorBackground">#1A1A1A</item>
+        <item name="colorSurface">#2D2D2D</item>
+        <item name="android:textColorPrimary">#FFFFFF</item>
+        <item name="android:textColorSecondary">#E6E6E6</item>
+    </style>
+</resources>
